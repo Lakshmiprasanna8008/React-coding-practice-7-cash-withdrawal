@@ -1,0 +1,14 @@
+/* Write your CSS here */
+button {
+  background-color: #382f5a;
+  color: #c4c4c4;
+  margin: 5px;
+  width: 120px;
+  height: 40px;
+  border-color: #c4c4c4;
+  font-weight: bold;
+  margin-right: 30px;
+  margin-left: 20px;
+  cursor: pointer;
+  outline: none;
+}
